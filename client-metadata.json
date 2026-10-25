@@ -1,0 +1,12 @@
+{
+  "client_id": "https://rithuraj66.github.io/in-just-oauth/client-metadata.json",
+  "client_name": "In Just",
+  "client_uri": "https://rithuraj66.github.io/in-just-oauth/",
+  "application_type": "native",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "redirect_uris": ["io.github.rithuraj66:/oauth/callback"],
+  "scope": "atproto transition:generic",
+  "token_endpoint_auth_method": "none",
+  "dpop_bound_access_tokens": true
+}
